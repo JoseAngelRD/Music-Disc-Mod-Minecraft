@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": "disc_mod:disc9_fragment"
+  },
+  "result": {
+    "id": "disc_mod:disc9",
+    "count": 1
+  }
+}
+

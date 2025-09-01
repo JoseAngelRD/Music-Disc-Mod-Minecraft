@@ -1,0 +1,33 @@
+{
+  "itemgroup.disc_mod.disc_items": "Discos de Musica Items",
+
+  "item.disc_mod.disc1": "Disco de Musica",
+  "item.disc_mod.disc1.desc": "Silent Hill - Otherside",
+
+  "item.disc_mod.disc2": "Disco de Musica",
+  "item.disc_mod.disc2.desc": "Disco2",
+
+  "item.disc_mod.disc3": "Disco de Musica",
+  "item.disc_mod.disc3.desc": "Disco3",
+
+  "item.disc_mod.disc4": "Disco de Musica",
+  "item.disc_mod.disc4.desc": "Disco4",
+
+  "item.disc_mod.disc5": "Disco de Musica",
+  "item.disc_mod.disc5.desc": "Disco5",
+
+  "item.disc_mod.disc6": "Disco de Musica",
+  "item.disc_mod.disc6.desc": "Disco6",
+
+  "item.disc_mod.disc7": "Disco de Musica",
+  "item.disc_mod.disc7.desc": "Disco7",
+
+  "item.disc_mod.disc8": "Disco de Musica",
+  "item.disc_mod.disc8.desc": "Disco8",
+
+  "item.disc_mod.disc9": "Disco de Musica",
+  "item.disc_mod.disc9.desc": "Disco9",
+
+  "item.disc_mod.disc9_fragment": "Fragmento de Disco de Music",
+  "item.disc_mod.disc9_fragment.desc": "Crea un disco de musica"
+}

@@ -1,0 +1,83 @@
+{
+  "disc1": {
+    "sounds": [
+      {
+        "name": "disc_mod:disc1",
+        "stream": true
+      }
+    ]
+  },
+
+  "disc2": {
+    "sounds": [
+      {
+        "name": "disc_mod:disc2",
+        "stream": true
+      }
+    ]
+  },
+
+  "disc3": {
+    "sounds": [
+      {
+        "name": "disc_mod:disc3",
+        "stream": true
+      }
+    ]
+  },
+
+  "disc4": {
+    "sounds": [
+      {
+        "name": "disc_mod:disc4",
+        "stream": true
+      }
+    ]
+  },
+
+  "disc5": {
+    "sounds": [
+      {
+        "name": "disc_mod:disc5",
+        "stream": true
+      }
+    ]
+  },
+
+  "disc6": {
+    "sounds": [
+      {
+        "name": "disc_mod:disc6",
+        "stream": true
+      }
+    ]
+  },
+
+  "disc7": {
+    "sounds": [
+      {
+        "name": "disc_mod:disc7",
+        "stream": true
+      }
+    ]
+  },
+
+  "disc8": {
+    "sounds": [
+      {
+        "name": "disc_mod:disc8",
+        "stream": true
+      }
+    ]
+  },
+
+  "disc9": {
+    "sounds": [
+      {
+        "name": "disc_mod:disc9",
+        "stream": true
+      }
+    ]
+  }
+
+}

@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "music_disc_mod",
+	"version": "${version}",
+	"name": "Music_Disc_Mod",
+	"description": "Mods para agregar nuevos discos de musica en Minecraft 1.21",
+	"authors": [
+		"JoseAngelRD"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/disc_mod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"joseangelrd.disc_mod.Music_Disc_Mod"
+		],
+		"fabric-datagen": [
+			"joseangelrd.disc_mod.Music_Disc_ModDataGenerator"
+		],
+		"cliente": [
+			"joseangelrd.disc_mod.DiscClient"
+		]
+	},
+	"mixins": [
+		"music_disc_mod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

@@ -1,0 +1,34 @@
+{
+  "itemgroup.disc_mod.disc_items": "Music Disc Items",
+
+
+  "item.disc_mod.disc1": "Music Disc",
+  "item.disc_mod.disc1.desc": "Silent Hill - Otherside",
+
+  "item.disc_mod.disc2": "Music Disc",
+  "item.disc_mod.disc2.desc": "Disc2",
+
+  "item.disc_mod.disc3": "Music Disc",
+  "item.disc_mod.disc3.desc": "Disc3",
+
+  "item.disc_mod.disc4": "Music Disc",
+  "item.disc_mod.disc4.desc": "Disc4",
+
+  "item.disc_mod.disc5": "Music Disc",
+  "item.disc_mod.disc5.desc": "Disc5",
+
+  "item.disc_mod.disc6": "Music Disc",
+  "item.disc_mod.disc6.desc": "Disc6",
+
+  "item.disc_mod.disc7": "Music Disc",
+  "item.disc_mod.disc7.desc": "Disc7",
+
+  "item.disc_mod.disc8": "Music Disc",
+  "item.disc_mod.disc8.desc": "Disc8",
+
+  "item.disc_mod.disc9": "Music Disc",
+  "item.disc_mod.disc9.desc": "Disc9",
+
+  "item.disc_mod.disc9_fragment": "Music Disc Fragment",
+  "item.disc_mod.disc9_fragment.desc": "It can create a disc"
+}
